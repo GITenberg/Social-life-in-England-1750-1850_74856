@@ -1,0 +1,28 @@
+_repo: Social-life-in-England-1750-1850_74856
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Foakes-Jackson, Frederick John
+    gutenberg_agent_id: '57688'
+    url: http://www.gutenberg.org/2009/agents/57688
+description: ''
+gutenberg_issued: '2024-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74856'
+language: en
+pgterms:marc904: https://archive.org/details/sociallifeinengl00foakuoft
+pgterms:marc905: 20230317200511foakesjack
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Carla Foust, MWS and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: '  $aNew York :$bMacmillan and Co., $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Social life in England, 1750-1850
+url: http://www.gutenberg.org/ebooks/74856
